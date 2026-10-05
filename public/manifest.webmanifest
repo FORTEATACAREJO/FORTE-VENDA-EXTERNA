@@ -1,1 +1,18 @@
-{"name":"Forte Venda Externa","short_name":"Venda Externa","id":"/","start_url":"/","display":"standalone","background_color":"#f4f7fb","theme_color":"#073b82","icons":[]}
+{
+  "name": "Forte Venda Externa",
+  "short_name": "Venda Externa",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#123963",
+  "icons": [
+    {
+      "src": "https://site-forte-atacarejo.onrender.com/central/icons/venda-externa-aprovado-320.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "scope": "/"
+}
